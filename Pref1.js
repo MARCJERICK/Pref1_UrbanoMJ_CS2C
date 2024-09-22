@@ -1,4 +1,5 @@
-/* Diffenrentiation of let, const, and var
+
+/* 1. Differentiation of let, const, and var in JavaScript
 In Javascript var, let, and const are the three main ways to declare variables in JavaScript.
 To produce clear and manageable code, it’s crucial to be aware of how these keywords differ 
 from one another.*/
@@ -49,6 +50,9 @@ function exampleConst() {
   Soren, J. P. (2023, September 20). Difference between var, let and const in JavaScript. Medium. 
   https://medium.com/@jackpritomsoren/difference-between-var-let-and-const-in-javascript-c6236899ca4d#:~:text=var%20is%20function%2Dscoped%20and,cannot%20be%20reassigned%20after%20initialization.*/
 
+
+
+  //2. Concept of Falsy Values in JavaScript
 
   /*In JavaScript, every value can be interpreted as a boolean. This means it can either be seen as true (truthy) or false (falsy) in contexts that require a boolean. So, what exactly is a boolean context? 
   It refers to situations where a true or false value is needed, like in if statements or with logical operators. When you use a value that isn’t a boolean in these contexts, JavaScript automatically converts 
